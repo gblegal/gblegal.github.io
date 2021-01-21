@@ -1,19 +1,19 @@
 ---
+layout: single
 permalink: /lifestack/
 title: "Lifestack"
-layout: splash
 ---
 
 ## Smart Home & Networking
 
-# Homekit:
+### Homekit:
 * Philips Hue - Lighting
 * Tado - Heating
 * Arlo - Home monitoring cameras & baby monitor
 * Eve - Smart switches, door sensors, camera
 * Apple HomePods
 
-# Ubiquiti Unifi:
+### Ubiquiti Unifi:
 
 * 1 x Unifi Security Gateway
 * 1 x Unifi Cloud Key
