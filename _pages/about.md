@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Greg.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+* Qualified solicitor, working at a leading law firm to develop and implement innovative and more efficent ways of working for our phenomenal M&A practice.
+* Apple devotee (MacBook Pro 13” / iPad Pro 12.9” 3rd Gen / iPhone 12 Pro / Mac Mini(s).
+* Keen “latest-tech-tester”.
+* Husband & dad, living in beautiful Surrey, UK.
+
+[LinkedIn](https://www.linkedin.com/in/gblegal/)
+
+I'm using this site to learn more about Jekyll, GitHub and refresh my HTML and CSS skills.
+[jekyll](https://github.com/jekyll/jekyll)
