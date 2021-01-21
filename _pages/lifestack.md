@@ -1,7 +1,7 @@
 ---
+title: Lifestack
+permalink: "/lifestack/"
 layout: single
-permalink: /lifestack/
-title: "Lifestack"
 ---
 
 ## Smart Home & Networking

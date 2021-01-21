@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+title: About
+permalink: "/about/"
 ---
 
 Hi, I’m Greg.
