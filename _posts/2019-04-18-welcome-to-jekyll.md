@@ -1,8 +1,8 @@
 ---
 title: Welcome to Jekyll!
-date: 2019-04-18 19:34:30 Z
+date: 2019-04-18 19:34:00 Z
 categories:
-- blog
+- Blog
 tags:
 - Jekyll
 - update
