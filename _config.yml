@@ -114,6 +114,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           More details upon request.
 
+      - layout: left
+        title: International School of Geneva
+        caption: 2000 - 2002
+        sub_title: International Baccalaureate
+        quote: >
+          Economics, Geography, English, French, Maths, Biology
+        description: | # this will include new lines to allow paragraphs
+          More details upon request.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
