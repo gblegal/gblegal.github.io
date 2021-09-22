@@ -53,6 +53,10 @@ about_content: | # this will include new lines to allow paragraphs
   I spend time <mark>speaking to lawyers and understanding what they need</mark>, as well as <mark>investigating, testing, building and promoting technology solutions for lawyers</mark>.
   I also work with our clients to improve the way we delivery our services, whether that's via <mark>legal design thinking</mark>, <mark>collaborating on proofs of concept and pilots of new technology</mark> or <mark>leveraging the data our firm and our work produces</mark>.
 
+  I have two amazing children and together with my brilliant wife and our cat, we live in rural Surrey. 
+  
+  I enjoy experimenting with new technologies, home automation, and am increasingly interested in green and zero carbon technologies for homes.
+  
 content:
   - title: Other Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -71,7 +75,7 @@ content:
         quote: >
           I used to know all of this stuff, but other things crowded it out.
         description: | # this will include new lines to allow paragraphs
-          I am using this website and a few others to refamiliarise myself with some basic web technologies, hosting strategies and general web publishing.
+          I am using this website to refamiliarise myself with some basic web technologies, hosting strategies and general web publishing.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -79,7 +83,7 @@ content:
       - layout: left
         title: White & Case
         link: whitecase.com
-        # link_text: boringcompany.com
+        # link_text: whitecase.com
         sub_title: Trainee, Associate
         caption: September 2008 - June 2018
         quote: >
