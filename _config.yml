@@ -48,16 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Greg. I'm a lawyer and legal technologist in the M&A practice at a leading international law firm based in London.
-  
-  My role includes:
-  
-    - driving adoption of innovative working methods
-    - looking for opportunities to exploit data for both know-how and transaction-related purposes
-    - enabling our amazing lawyers to fully utilise technical innovations and efficiency tools
-    - acting as a matter consultant to enable our lawyers to deliver outstanding and efficient client service 
+  Hi, my name's Greg. I'm a lawyer at Linklaters in London - I describe myself as a legal technologist with some legal engineering and digital transformation thrown in. I design, build and promote better ways of working for lawyers.
 
-  I am most skilled in: understanding the <mark>business of law</mark>, improving <mark>the way lawyers work</mark>, plus both at work & at home <mark>playing with and assessing the latest tech innovations!</mark>.
+  I spend time <mark>speaking to lawyers and understanding what they need</mark>, as well as <mark>investigating, testing, building and promoting technology solutions for lawyers</mark>.
+  I also work with our clients to improve the way we delivery our services, whether that's via <mark>legal design thinking</mark>, <mark>collaborating on proofs of concept and pilots of new technology</mark> or <mark>leveraging the data our firm and our work produces</mark>.
 
 content:
   - title: Other Projects # Title for the section
